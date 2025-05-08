@@ -3,11 +3,13 @@
 I'm a Computer Science student at DePaul University pursuing a career in Full-Stack Software Engineering. I currently work as a Data Science Intern at BizStrat Technology and was previously an Application Development Intern at One Summer Chicago.
 
 I have experience programming with:
+```diff
 - **C/C++**
 - **Java**
 - **Python**
 - **HTML/CSS**
 - **SQL**
+```
 
 At DePaul, I conduct quantum dynamics research with the Chemistry Department, building optimized simulation software to analyze how systems like photovoltaic cells can harness energy more efficiently. I also serve as Vice President of *SimplyCS*, a student organization aimed at facilitating accessible and inclusive programming tutoring for DePaul students of any major.
 
