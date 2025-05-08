@@ -9,7 +9,7 @@ I have experience programming with:
 - **HTML/CSS**
 - **SQL**
 
-At DePaul, I conduct quantum dynamics research with the Chemistry Department, building optimized simulation software to analyze how systems like photovoltaic cells can harness solar energy more efficiently. I also serve as Vice President for *SimplyCS*, a student organization aimed at facilitating accessible and inclusive programming tutoring for DePaul students of any major.
+At DePaul, I conduct quantum dynamics research with the Chemistry Department, building optimized simulation software to analyze how systems like photovoltaic cells can harness energy more efficiently. I also serve as Vice President of *SimplyCS*, a student organization aimed at facilitating accessible and inclusive programming tutoring for DePaul students of any major.
 
 In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https://www.instagram.com/claimursa/). If I'm not jamming, I'm either losing at Mahjong, building LEGO, or barely getting enough sleep.
 
