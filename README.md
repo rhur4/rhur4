@@ -1,3 +1,18 @@
+# Hi! I'm Rylan.
+---
+I'm a Computer Science student at DePaul University pursuing a career in Full-Stack Software Engineering. I currently work as a Data Science Intern at BizStrat Technology and was previously an Application Development Intern at One Summer Chicago.
 
-CS @ DPU
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#E3008C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-code-xml-icon lucide-code-xml"><path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/></svg>
+I have experience programming with:
+- **C/C++**
+- **Java**
+- **Python**
+- **HTML/CSS**
+- **SQL**
+
+At DePaul, I conduct quantum dynamics research with the Chemistry Department, building optimized simulation software to analyze how systems like photovoltaic cells can harness solar energy more efficiently. I also serve as Vice President for *SimplyCS*, a student organization aimed at facilitating accessible and inclusive programming tutoring for DePaul students of any major.
+
+In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https://www.instagram.com/claimursa/). If I'm not jamming, I'm either playing Mahjong, building LEGO, or barely getting enough sleep.
+
+As a tutor and a musician, I'm interested in exploring how I can leverage technology in education and songwriting. I believe that, with care, modern AI tools can optimize learning experiences—not diminish them. I also believe in using AI ethically and creatively to write music of the future.
+
+Thanks for reading!
