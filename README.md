@@ -16,6 +16,8 @@ In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https:
 As a tutor and a musician, I'm interested in exploring how I can leverage technology in education and songwriting. I believe that, with care, modern AI tools can optimize learning experiences—not diminish them. I also believe in using AI ethically and creatively to write music of the future.
 
 Interested in connecting? Don't hesitate to reach out. Thanks for reading!
+<span style="color:blue">This will work on some Markdown renderers, but not GitHub</span>
+
 
 ### What I'm rocking out to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=c65vugqubudxnhgsvux6ns1pv&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e3008c&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=c65vugqubudxnhgsvux6ns1pv&redirect=true)
