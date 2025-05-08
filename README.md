@@ -11,7 +11,7 @@ I have experience programming with:
 
 At DePaul, I conduct quantum dynamics research with the Chemistry Department, building optimized simulation software to analyze how systems like photovoltaic cells can harness solar energy more efficiently. I also serve as Vice President for *SimplyCS*, a student organization aimed at facilitating accessible and inclusive programming tutoring for DePaul students of any major.
 
-In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https://www.instagram.com/claimursa/). If I'm not jamming, I'm either playing Mahjong, building LEGO, or barely getting enough sleep.
+In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https://www.instagram.com/claimursa/). If I'm not jamming, I'm either losing at Mahjong, building LEGO, or barely getting enough sleep.
 
 As a tutor and a musician, I'm interested in exploring how I can leverage technology in education and songwriting. I believe that, with care, modern AI tools can optimize learning experiences—not diminish them. I also believe in using AI ethically and creatively to write music of the future.
 
