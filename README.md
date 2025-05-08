@@ -15,4 +15,4 @@ In my free time, I play bass guitar for my heavy metal band, [Claim Ursa](https:
 
 As a tutor and a musician, I'm interested in exploring how I can leverage technology in education and songwriting. I believe that, with care, modern AI tools can optimize learning experiences—not diminish them. I also believe in using AI ethically and creatively to write music of the future.
 
-Interested in connecting? Don't hesitate to email me. Thanks for reading!
+Interested in connecting? Don't hesitate to reach out. Thanks for reading!
