@@ -1,5 +1,5 @@
 # Hi! I'm Rylan.
----
+
 I'm a Computer Science student at DePaul University pursuing a career in Full-Stack Software Engineering. I currently work as a Data Science Intern at BizStrat Technology and was previously an Application Development Intern at One Summer Chicago.
 
 I have experience programming with:
